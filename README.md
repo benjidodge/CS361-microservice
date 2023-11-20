@@ -20,5 +20,5 @@ be used:
 
     total = s.recv(4096)
 
-
+## **UML SEQUENCE DIAGRAM**:
 ![UML Diagram](./UML.png)

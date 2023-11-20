@@ -14,7 +14,7 @@ icome;time;rate:
     data = income + ";" + time + ";" + rate
     s.send(data.encode())
 
-After the data is sent to the microservice, the futture value calculation will run and send the 
+After the data is sent to the microservice, the future value calculation will run and send the 
 result back to the client. To receive the result from the microservice, the below code needs to
 be used:
 
